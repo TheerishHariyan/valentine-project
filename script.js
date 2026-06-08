@@ -12,7 +12,7 @@ const quotes = [
     "The moment I realized you are special! ✨",
     "Every smile of yours makes my day 🥰",
     "The hands I wanna hold forever 🤝",
-    "I Lovee Youu Myy Nevaas ❤️"
+    "I Lovee Youu Sharrnis Kaliswaran Muniandy Oly ❤️"
 ];
 let quoteIndex = 0;
 
